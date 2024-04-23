@@ -1,6 +1,6 @@
 FROM node:21-alpine
 
-WORKDIR /root/opt/app
+WORKDIR /root/learn_docker
 
 COPY package*.json ./
 
